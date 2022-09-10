@@ -1,4 +1,5 @@
 # SQL-Projects
+Link to me Tableau Public Portfolio (https://public.tableau.com/app/profile/brandon.o.grady) projects.
 
 | Project | Description |
 | --- | --- |
